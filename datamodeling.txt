@@ -16,7 +16,8 @@ float scoreAvg,
 bool isTopArticle,
 }
 
-ArticleParticipant { 
+ArticleParticipant {
+string id
 string articleId,
 string participantId
 }
