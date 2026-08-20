@@ -39,12 +39,12 @@ const Layout: React.FC<LayoutProps> = ({
               <p>
                 &copy; {currentYear} ArtiGate &middot; Crafted by{' '}
                 <a
-                  href="https://github.com/azevedo1x"
+                  href="https://github.com/azevedo1z"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={linkClassName}
                 >
-                  <span>azevedo1x</span>
+                  <span>azevedo1z</span>
                   <ExternalLink className="h-3 w-3" />
                 </a>
               </p>
